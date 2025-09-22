@@ -14,9 +14,11 @@ export default function Home({ allPostsData }) {
 
       {/* Intro Section */}
       <section className={utilStyles.headingMd}>
-        <p>[]</p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA
+        <p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
+          (Пичаи перешёл в Google в 2004 году, где он возглавлял направления менеджмента и 
+        инновационной деятельности линеек клиент-ориентированных продуктов Google, в том числе Google Chrome
+        и Chrome OS, а также в значительной степени отвечал за Google Drive.{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
@@ -53,10 +55,10 @@ export default function Home({ allPostsData }) {
 
         <h2>Relative URLs</h2>
         <p>
-          <a href="html_images.asp">HTML Images</a>
+          <a href="https://react.dev/learn">react</a>
         </p>
         <p>
-          <a href="/css/default.asp">CSS Tutorial</a>
+          <a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%87%D0%B0%D0%B8,_%D0%A1%D1%83%D0%BD%D0%B4%D0%B0%D1%80">s. pichai</a>
         </p>
       </section>
     </Layout>
