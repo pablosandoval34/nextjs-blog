@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 export default function Home({ allPostsData }) {
   return (
-    <div style={{ backgroundColor: 'yellow', minHeight: '100vh', padding: '1rem' }}>
+    <div style={{ backgroundColor: 'red', minHeight: '100vh', padding: '1rem' }}>
       <Layout home>
         <Head>
           <title>{siteTitle}</title>
