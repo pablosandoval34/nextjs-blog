@@ -15,7 +15,7 @@ export default function Home({ allPostsData }) {
 
         {/* Intro Section */}
         <section className={utilStyles.headingMd}>
-          <p>Hello. My name is Steve A. I am a web developer from Santa Rosa, CA</p>
+          <p>Здравствуйте. Меня зовут Сундар Пичаи. Я веб-разработчик из Санта-Розы, Калифорния.</p>
           <p>
             (Пичаи перешёл в Google в 2004 году, где он возглавлял направления менеджмента и
             инновационной деятельности линеек клиент-ориентированных продуктов Google, в том числе Google Chrome
